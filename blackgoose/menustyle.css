@@ -10,8 +10,7 @@ header {
   margin-top: 0;
   padding: 3em 1em 2em 1em;
   text-align: center;
-background: rgba(255, 255, 255, .5) 
-url(summerimages/purpledot.png) repeat-x center top;
+background: rgba(255, 255, 255, .5) url(summerimages/purpledot.png) repeat-x center top;
 background: 
 url(summerimages/purpledot.png) left top repeat-y,
 url(summerimages/purpledot.png) right top repeat-y,
