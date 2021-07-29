@@ -6,22 +6,22 @@ margin: 0 15%;
 font-family: 'Roboto', sans-serif;
 }
 a:hover {
-color: #Efecbb;
+color: #F3ef94;
 background-color: #fff;
 }
 h1 {
 color:#00000;
 text-align: center;
-font-family: 'Boogaloo', cursive;
+font-family: 'Roboto', sans-serif;
 font-weight: normal;
 text-transform: uppercase;
 border-bottom: 2px solid #00000;
 margin-top: 30px;
-text-shadow: .05em .05em .1em #Efecbb;
+text-shadow: .05em .05em .1em #F3ef94;
 font-size: 4em;
 }
 h2 {
-text-shadow: .05em .05em .1em #Efecbb;
+text-shadow: .05em .05em .1em #F3ef94;
 text-align: center;
 color: #00000;
 font-size: 2em;
@@ -32,5 +32,5 @@ text-transform: uppercase;
   list-style-type: none;
  }
 strong {
-color: #Efecbb;
+color: #F3ef94;
 }
