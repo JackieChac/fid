@@ -14,15 +14,15 @@ text-align: center;
 font-family: 'Roboto Condensed', serif;
 font-weight: normal;
 text-transform: uppercase;
-border-bottom: 2px solid #FFD700;
+border-bottom: 2px solid #Fcbdfc;
 margin-top: 30px;
-text-shadow: .05em .05em .1em #FFD700;
+text-shadow: .05em .05em .1em #Fcbdfc;
 font-size: 3em;
 
 
 }
 h2 {
-text-shadow: .05em .05em .1em #FFD700;
+text-shadow: .05em .05em .1em #Fcbdfc;
 color: #black;
 font-size: 2em;
 text-align: center;
@@ -31,7 +31,7 @@ text-align: center;
 }
 footer {
 
-	  border-top: 2px solid #FFD700;
+	  border-top: 2px solid #Fcbdfc;
 	  text-align: center;
 	  padding-top: 1em;
 }
